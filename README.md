@@ -27,7 +27,7 @@ const amir = {
       "Sass",
       "Bootstrap",
       "Tailwind CSS",
-    ].map((tool) => `I am skilled in ${tool}.`),
+    ].map((skill) => `I am skilled in ${skill}.`),
     backEnd: ["PHP", "Laravel", "WordPress", "WooCommerce"],
     other: ["MySQL", "Redis", "Git", "Gnu/Linux"],
   },
