@@ -27,7 +27,7 @@ const amir = {
       "Sass",
       "Bootstrap",
       "Tailwind CSS",
-    ].map((skill) => `I am skilled in ${skill}.`),
+    ].map((skill) => `I'm skilled in ${skill}.`),
     backEnd: ["PHP", "Laravel", "WordPress", "WooCommerce"],
     other: ["MySQL", "Redis", "Git", "Gnu/Linux"],
   },
@@ -38,7 +38,7 @@ const amir = {
       "IoT",
       "Web3",
       "Quantum computing",
-    ].map((tech) => `I am a fan of ${tech}.`),
+    ].map((tech) => `I'm fan of ${tech}.`),
     companiesAndOrganizations: [
       "Free Software Foundation",
       "Linux Foundation",
@@ -49,7 +49,7 @@ const amir = {
       "WikiLeaks",
       "The Tor Project",
       "Wikimedia Foundation",
-    ].map((company) => `I am a fan of ${company}.`),
+    ].map((company) => `I'm fan of ${company}.`),
   },
   links: {
     email: "amir.hz.karimi" + "moc.liamg@".split("").reverse().join(""),
