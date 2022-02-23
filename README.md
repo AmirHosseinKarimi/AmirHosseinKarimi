@@ -1,6 +1,60 @@
-<a href="https://github.com/AmirHosseinKarimi/AmirHosseinKarimi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmirHosseinKarimi&show_icons=true&hide=stars&icon_color=0366d6&line_height=30&include_all_commits" />
+<a href="#">
+  <img width="100%" src="https://github.com/AmirHosseinKarimi/AmirHosseinKarimi/raw/master/qoute.png" />
 </a>
-<a href="https://github.com/AmirHosseinKarimi/AmirHosseinKarimi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinKarimi" />
-</a>
+
+```js
+const amir = {
+  pronouns: "he" || "him",
+  fullName: "Amir hossein Karimi",
+  role: "Full-Stack Web Developer",
+  hobbies: [
+    "Coding",
+    "Learning",
+    "Reading books",
+    "Playing chess",
+    "Watching movies",
+    "Listening to music",
+    "Playing video games",
+    "Listening to podcasts",
+  ].map((hobby) => `I like ${hobby.toLowerCase()}.`),
+  skills: {
+    frontEnd: [
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Redux",
+      "Next.js",
+      "Sass",
+      "Bootstrap",
+      "Tailwind CSS",
+    ].map((tool) => `I am skilled in ${tool}.`),
+    backEnd: ["PHP", "Laravel", "WordPress", "WooCommerce"],
+    other: ["MySQL", "Redis", "Git", "Gnu/Linux"],
+  },
+  fanOf: {
+    technologies: [
+      "Blockchain",
+      "Bitcoin",
+      "IoT",
+      "Web3",
+      "Quantum computing",
+    ].map((tech) => `I am a fan of ${tech}.`),
+    companiesAndOrganizations: [
+      "Free Software Foundation",
+      "Linux Foundation",
+      "Mozilla",
+      "Apache",
+      "Tesla",
+      "SpaceX",
+      "WikiLeaks",
+      "The Tor Project",
+      "Wikimedia Foundation",
+    ].map((company) => `I am a fan of ${company}.`),
+  },
+  links: {
+    email: "amir.hz.karimi" + "moc.liamg@".split("").reverse().join(""),
+    linkedin: "https://www.linkedin.com/in/amirhosseinkarimi/",
+    stackoverflow: "https://stackoverflow.com/users/4038528/amir-hossein-karimi",
+  },
+};
+```
