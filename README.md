@@ -38,7 +38,7 @@ const amir = {
       "IoT",
       "Web3",
       "Quantum computing",
-    ].map((tech) => `I'm fan of ${tech}.`),
+    ].map((tech) => `I'm a fan of ${tech}.`),
     companiesAndOrganizations: [
       "Free Software Foundation",
       "Linux Foundation",
@@ -49,7 +49,7 @@ const amir = {
       "WikiLeaks",
       "The Tor Project",
       "Wikimedia Foundation",
-    ].map((company) => `I'm fan of ${company}.`),
+    ].map((company) => `I'm a fan of ${company}.`),
   },
   links: {
     email: "amir.hz.karimi" + "moc.liamg@".split("").reverse().join(""),
